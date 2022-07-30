@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/shubhankargupta/Documents/VNotes/VNotes/VNotes.csproj": {}
+  },
+  "projects": {
+    "/home/shubhankargupta/Documents/VNotes/VNotes/VNotes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shubhankargupta/Documents/VNotes/VNotes/VNotes.csproj",
+        "projectName": "VNotes",
+        "projectPath": "/home/shubhankargupta/Documents/VNotes/VNotes/VNotes.csproj",
+        "packagesPath": "/home/shubhankargupta/.nuget/packages/",
+        "outputPath": "/home/shubhankargupta/Documents/VNotes/VNotes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shubhankargupta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
